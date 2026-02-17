@@ -1,2 +1,2 @@
-# gazipura.t-king
+# service.t-king
 ERP Management System of Gangchill Group
